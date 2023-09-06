@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melopsittacusundulated!
-- 👀 I’m interested in birds! and sustainable transportation :D
-- 🌱 I’m currently learning Python and Java!
+- 🐦🌞 I’m interested in birds, robotics, and solar panels!!
+- 🌱 I’m currently learning Python and other silly little things!
 - 📫 How to reach me: send me a chirp dofilynn@gmail.com
 
 <!---
