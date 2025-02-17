@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @melopsittacusundulated!
-- 🐦🌞 I’m interested in birds, robotics, and solar panels!!
-- 🌱 I’m currently learning Python and other silly little things!
 - 📫 How to reach me: send me a chirp 
 
 <!---
