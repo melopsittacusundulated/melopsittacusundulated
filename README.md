@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @melopsittacusundulated!
-- 📫 How to reach me: send me a chirp 
+hello and welcome to my github!
 
 <!---
 melopsittacusundulated/melopsittacusundulated is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
